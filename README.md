@@ -1,1 +1,3 @@
 # MiniCalculator
+
+It is the simple basic mini-calculator made by basic java coding....
